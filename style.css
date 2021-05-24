@@ -1,8 +1,8 @@
 @font-face{
     font-family:"spider-man-regular";
-    src:url("/Spider-Man.otf") format("woff"),
-    url("/Spider-Man.otf") format("opentype"),
-    url("/Spider-Man.otf") format("truetype");
+    src:url("/font/Spider-Man.otf") format("woff"),
+    url("/font/Spider-Man.otf") format("opentype"),
+    url("/font/Spider-Man.otf") format("truetype");
 }
 
 * {
